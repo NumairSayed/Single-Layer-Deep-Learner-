@@ -1,0 +1,2 @@
+This file contains a .py extension that implements multiple passes of forward parameter estimation followed by an immediate back-propagation. A simple neural network that learns the weights itself.
+You will have to add paths to training and testing files in line 60 & 64 respectively. Please understand that the file should be of .csv type.
